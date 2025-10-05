@@ -34,6 +34,14 @@ const endIcon = new L.Icon({
     iconSize: ICON_CONFIG.SIZE,
     iconAnchor: ICON_CONFIG.ANCHOR,
     popupAnchor: ICON_CONFIG.POPUP_ANCHOR,
+});
+
+const sharkCurrentIcon = new L.Icon({
+    iconUrl: '/tiburon.png',
+    iconSize: ICON_CONFIG.SHARK_SIZE,
+    iconAnchor: ICON_CONFIG.SHARK_ANCHOR,
+    popupAnchor: ICON_CONFIG.SHARK_POPUP_ANCHOR,
+    className: 'shark-current-icon',
 }); const SharkTrackingMap = ({ trackingData = [] }) => {
     const [map, setMap] = useState(null);
 
@@ -70,14 +78,17 @@ const endIcon = new L.Icon({
     // Obtener icono según la posición en el tracking
     const getIcon = (index) => {
         if (index === 0) return startIcon; // Primer punto cronológico = inicio
-        if (index === sortedData.length - 1) return endIcon; // Último punto cronológico = final
+        if (index === sortedData.length - 1) {
+            console.log('Creating shark icon for final point');
+            return sharkCurrentIcon; // Último punto = ubicación actual del tiburón
+        }
         return sharkIcon;
     };
 
     // Obtener título según la posición
     const getPointTitle = (index) => {
         if (index === 0) return "Punto de Inicio";
-        if (index === sortedData.length - 1) return "Punto Final";
+        if (index === sortedData.length - 1) return "Ubicación Actual";
         return `Punto ${index + 1}`;
     };
 
@@ -125,6 +136,7 @@ const endIcon = new L.Icon({
                         key={point.id}
                         position={[point.latitude, point.longitude]}
                         icon={getIcon(index)}
+                        zIndexOffset={index === sortedData.length - 1 ? 10000 : 0}
                     >
                         <Popup className="shark-popup">
                             <div className="p-3 min-w-[250px]">

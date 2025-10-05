@@ -37,3 +37,33 @@
   overflow: hidden;
   box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
 }
+
+/* Z-index alto para el marcador del tiburón (ubicación actual) */
+.shark-current-marker {
+  z-index: 10000 !important;
+  position: relative;
+}
+
+/* Asegurar que la imagen del tiburón esté siempre visible */
+.shark-current-marker img {
+  z-index: 10001 !important;
+  position: relative;
+}
+
+/* Z-index alto para el marcador del tiburón (ubicación actual) */
+.shark-current-marker {
+  z-index: 10000 !important;
+  position: relative;
+}
+
+/* Asegurar que la imagen del tiburón esté siempre visible */
+.shark-current-marker img {
+  z-index: 10001 !important;
+  position: relative;
+}
+
+/* Estilos básicos para el tiburón sin animaciones problemáticas */
+.shark-current-icon {
+  z-index: 10000 !important;
+  filter: drop-shadow(0 0 8px rgba(30, 144, 255, 0.6));
+}
