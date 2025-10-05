@@ -69,8 +69,8 @@ const endIcon = new L.Icon({
 
     // Obtener icono según la posición en el tracking
     const getIcon = (index) => {
-        if (index === 0) return startIcon;
-        if (index === sortedData.length - 1) return endIcon;
+        if (index === 0) return startIcon; // Primer punto cronológico = inicio
+        if (index === sortedData.length - 1) return endIcon; // Último punto cronológico = final
         return sharkIcon;
     };
 
