@@ -1,0 +1,145 @@
+{
+  "sharkId": 3,
+  "sharkName": "Bruce",
+  "predictedPositions": [
+    {
+      "latitude": -34.64950180053711,
+      "longitude": 20.279523849487305,
+      "chlorA": 3.929511785507202,
+      "iteration": 1,
+      "predictedFor": "2025-10-05T16:54:20.1425862Z"
+    },
+    {
+      "latitude": -34.63731002807617,
+      "longitude": 20.316312789916992,
+      "chlorA": 3.929704427719116,
+      "iteration": 2,
+      "predictedFor": "2025-10-05T17:54:20.2583559Z"
+    },
+    {
+      "latitude": -34.625099182128906,
+      "longitude": 20.356956481933594,
+      "chlorA": 3.9300620555877686,
+      "iteration": 3,
+      "predictedFor": "2025-10-05T18:54:20.3711273Z"
+    },
+    {
+      "latitude": -34.61365509033203,
+      "longitude": 20.397279739379883,
+      "chlorA": 3.9303219318389893,
+      "iteration": 4,
+      "predictedFor": "2025-10-05T19:54:20.4894995Z"
+    },
+    {
+      "latitude": -34.60254669189453,
+      "longitude": 20.437114715576172,
+      "chlorA": 3.9305405616760254,
+      "iteration": 5,
+      "predictedFor": "2025-10-05T20:54:20.5902946Z"
+    },
+    {
+      "latitude": -34.59162521362305,
+      "longitude": 20.4764404296875,
+      "chlorA": 3.9307281970977783,
+      "iteration": 6,
+      "predictedFor": "2025-10-05T21:54:20.6897893Z"
+    },
+    {
+      "latitude": -34.581607818603516,
+      "longitude": 20.513948440551758,
+      "chlorA": 3.9308021068573,
+      "iteration": 7,
+      "predictedFor": "2025-10-05T22:54:20.7887102Z"
+    },
+    {
+      "latitude": -34.57200241088867,
+      "longitude": 20.55019187927246,
+      "chlorA": 3.930877447128296,
+      "iteration": 8,
+      "predictedFor": "2025-10-05T23:54:20.9052837Z"
+    },
+    {
+      "latitude": -34.56279373168945,
+      "longitude": 20.585031509399414,
+      "chlorA": 3.930959701538086,
+      "iteration": 9,
+      "predictedFor": "2025-10-06T00:54:21.019408Z"
+    },
+    {
+      "latitude": -34.5540657043457,
+      "longitude": 20.618465423583984,
+      "chlorA": 3.931021213531494,
+      "iteration": 10,
+      "predictedFor": "2025-10-06T01:54:21.1906738Z"
+    },
+    {
+      "latitude": -34.545684814453125,
+      "longitude": 20.650625228881836,
+      "chlorA": 3.9310741424560547,
+      "iteration": 11,
+      "predictedFor": "2025-10-06T02:54:21.3250703Z"
+    },
+    {
+      "latitude": -34.53765869140625,
+      "longitude": 20.681623458862305,
+      "chlorA": 3.9311342239379883,
+      "iteration": 12,
+      "predictedFor": "2025-10-06T03:54:21.4389552Z"
+    },
+    {
+      "latitude": -34.529964447021484,
+      "longitude": 20.71147346496582,
+      "chlorA": 3.9311866760253906,
+      "iteration": 13,
+      "predictedFor": "2025-10-06T04:54:21.5441226Z"
+    },
+    {
+      "latitude": -34.52254104614258,
+      "longitude": 20.740253448486328,
+      "chlorA": 3.931232452392578,
+      "iteration": 14,
+      "predictedFor": "2025-10-06T05:54:21.6345944Z"
+    },
+    {
+      "latitude": -34.5153694152832,
+      "longitude": 20.768047332763672,
+      "chlorA": 3.931272506713867,
+      "iteration": 15,
+      "predictedFor": "2025-10-06T06:54:21.7216595Z"
+    },
+    {
+      "latitude": -34.50845718383789,
+      "longitude": 20.79486083984375,
+      "chlorA": 3.9313039779663086,
+      "iteration": 16,
+      "predictedFor": "2025-10-06T07:54:21.8090955Z"
+    }
+  ],
+  "usedPositions": [
+    {
+      "latitude": -34.749,
+      "longitude": 20.106,
+      "chlor_A": 3.9315093
+    },
+    {
+      "latitude": -34.747,
+      "longitude": 20.099,
+      "chlor_A": 3.9315093
+    },
+    {
+      "latitude": -34.749,
+      "longitude": 20.135,
+      "chlor_A": 3.9315093
+    },
+    {
+      "latitude": -34.75,
+      "longitude": 20.118,
+      "chlor_A": 3.9315093
+    },
+    {
+      "latitude": -34.749,
+      "longitude": 20.206,
+      "chlor_A": 3.9315093
+    }
+  ]
+}

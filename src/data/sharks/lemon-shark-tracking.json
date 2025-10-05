@@ -1,0 +1,902 @@
+[
+  {
+    "id": 101,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.179,
+    "longitude": 22.417,
+    "trackingDateTime": "2012-03-10T08:23:50",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 102,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.253,
+    "longitude": 22.423,
+    "trackingDateTime": "2012-03-10T10:05:57",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 103,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.258,
+    "longitude": 22.458,
+    "trackingDateTime": "2012-03-10T10:31:14",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 104,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.354,
+    "longitude": 22.525,
+    "trackingDateTime": "2012-03-10T16:04:25",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 105,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.448,
+    "longitude": 22.338,
+    "trackingDateTime": "2012-03-10T16:05:10",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 106,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.587,
+    "longitude": 22.373,
+    "trackingDateTime": "2012-03-10T18:39:20",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 107,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.64,
+    "longitude": 22.387,
+    "trackingDateTime": "2012-03-10T19:47:40",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 108,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.673,
+    "longitude": 22.367,
+    "trackingDateTime": "2012-03-10T20:12:50",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 109,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -35.484,
+    "longitude": 22.544,
+    "trackingDateTime": "2012-03-11T16:30:17",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 110,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -35.558,
+    "longitude": 22.487,
+    "trackingDateTime": "2012-03-11T16:51:47",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 111,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -35.626,
+    "longitude": 22.497,
+    "trackingDateTime": "2012-03-11T18:20:28",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 112,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -35.686,
+    "longitude": 22.23,
+    "trackingDateTime": "2012-03-11T19:43:50",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 113,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -35.701,
+    "longitude": 22.014,
+    "trackingDateTime": "2012-03-11T19:48:58",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 114,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -35.751,
+    "longitude": 22.013,
+    "trackingDateTime": "2012-03-11T20:50:52",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 115,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -35.771,
+    "longitude": 22.022,
+    "trackingDateTime": "2012-03-11T21:19:42",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 116,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -35.769,
+    "longitude": 21.999,
+    "trackingDateTime": "2012-03-11T21:27:09",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 117,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -35.824,
+    "longitude": 21.965,
+    "trackingDateTime": "2012-03-11T22:35:02",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 118,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -36.324,
+    "longitude": 21.642,
+    "trackingDateTime": "2012-03-12T16:12:43",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 119,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -36.322,
+    "longitude": 21.645,
+    "trackingDateTime": "2012-03-12T16:16:56",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 120,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -36.328,
+    "longitude": 21.636,
+    "trackingDateTime": "2012-03-12T16:37:09",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 121,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -36.338,
+    "longitude": 21.512,
+    "trackingDateTime": "2012-03-12T19:23:38",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 122,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -36.339,
+    "longitude": 21.511,
+    "trackingDateTime": "2012-03-12T19:23:58",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 123,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -36.346,
+    "longitude": 21.503,
+    "trackingDateTime": "2012-03-12T19:31:15",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 124,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -36.371,
+    "longitude": 21.483,
+    "trackingDateTime": "2012-03-12T20:33:10",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 125,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -36.369,
+    "longitude": 21.452,
+    "trackingDateTime": "2012-03-12T21:02:02",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 126,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -36.368,
+    "longitude": 21.427,
+    "trackingDateTime": "2012-03-12T21:07:59",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 127,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -36.389,
+    "longitude": 21.401,
+    "trackingDateTime": "2012-03-12T22:10:08",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 128,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -36.703,
+    "longitude": 20.891,
+    "trackingDateTime": "2012-03-13T15:46:12",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 129,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -36.558,
+    "longitude": 20.812,
+    "trackingDateTime": "2012-03-13T16:05:55",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 130,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -36.521,
+    "longitude": 20.783,
+    "trackingDateTime": "2012-03-13T19:01:55",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 131,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -36.453,
+    "longitude": 20.773,
+    "trackingDateTime": "2012-03-13T19:04:25",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 132,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -35.715,
+    "longitude": 20.763,
+    "trackingDateTime": "2012-03-14T18:41:25",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 133,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -35.046,
+    "longitude": 21.237,
+    "trackingDateTime": "2012-03-15T15:43:11",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 134,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -35.032,
+    "longitude": 21.242,
+    "trackingDateTime": "2012-03-15T16:03:04",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 135,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -35.015,
+    "longitude": 21.269,
+    "trackingDateTime": "2012-03-15T16:37:03",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 136,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.393,
+    "longitude": 21.073,
+    "trackingDateTime": "2012-03-16T11:11:32",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 137,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.393,
+    "longitude": 21.467,
+    "trackingDateTime": "2012-03-19T05:18:24",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 138,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.394,
+    "longitude": 21.468,
+    "trackingDateTime": "2012-03-19T05:22:35",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 139,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.39,
+    "longitude": 21.459,
+    "trackingDateTime": "2012-03-19T07:00:50",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 140,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.381,
+    "longitude": 21.504,
+    "trackingDateTime": "2012-03-19T23:09:09",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 141,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.369,
+    "longitude": 21.472,
+    "trackingDateTime": "2012-03-20T15:17:33",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 142,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.39,
+    "longitude": 21.484,
+    "trackingDateTime": "2012-03-20T15:37:59",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 143,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.372,
+    "longitude": 21.471,
+    "trackingDateTime": "2012-03-23T10:30:28",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 144,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.38,
+    "longitude": 21.474,
+    "trackingDateTime": "2012-03-25T06:13:02",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 145,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.379,
+    "longitude": 21.482,
+    "trackingDateTime": "2012-03-25T07:59:48",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 146,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.373,
+    "longitude": 21.482,
+    "trackingDateTime": "2012-03-25T11:25:02",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 147,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.385,
+    "longitude": 21.496,
+    "trackingDateTime": "2012-03-25T20:08:50",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 148,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.395,
+    "longitude": 21.484,
+    "trackingDateTime": "2012-03-29T15:19:51",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 149,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.382,
+    "longitude": 21.502,
+    "trackingDateTime": "2012-04-03T02:39:24",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 150,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.381,
+    "longitude": 21.506,
+    "trackingDateTime": "2012-04-03T04:31:36",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 151,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.387,
+    "longitude": 21.598,
+    "trackingDateTime": "2012-04-04T21:57:42",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 152,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.385,
+    "longitude": 21.611,
+    "trackingDateTime": "2012-04-05T04:18:44",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 153,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.132,
+    "longitude": 22.17,
+    "trackingDateTime": "2012-04-24T05:46:41",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 154,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.102,
+    "longitude": 22.153,
+    "trackingDateTime": "2012-04-24T05:52:19",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 155,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.102,
+    "longitude": 22.2,
+    "trackingDateTime": "2012-04-25T05:31:11",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 156,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.099,
+    "longitude": 22.159,
+    "trackingDateTime": "2012-04-25T15:47:13",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 157,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.069,
+    "longitude": 22.224,
+    "trackingDateTime": "2012-04-27T22:02:07",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 158,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.071,
+    "longitude": 22.224,
+    "trackingDateTime": "2012-04-28T07:34:25",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 159,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.068,
+    "longitude": 22.242,
+    "trackingDateTime": "2012-04-28T22:34:53",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 160,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.068,
+    "longitude": 22.217,
+    "trackingDateTime": "2012-04-29T11:07:14",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 161,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.063,
+    "longitude": 22.236,
+    "trackingDateTime": "2012-04-29T18:48:53",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 162,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.102,
+    "longitude": 22.186,
+    "trackingDateTime": "2012-04-30T18:26:45",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 163,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.106,
+    "longitude": 22.181,
+    "trackingDateTime": "2012-05-01T08:20:55",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 164,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.069,
+    "longitude": 22.203,
+    "trackingDateTime": "2012-05-01T21:09:14",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 165,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.072,
+    "longitude": 22.203,
+    "trackingDateTime": "2012-05-02T17:12:31",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 166,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.066,
+    "longitude": 22.217,
+    "trackingDateTime": "2012-05-06T21:52:01",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 167,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.064,
+    "longitude": 22.216,
+    "trackingDateTime": "2012-05-06T23:20:11",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 168,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.074,
+    "longitude": 22.197,
+    "trackingDateTime": "2012-05-07T21:17:16",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 169,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.074,
+    "longitude": 22.2,
+    "trackingDateTime": "2012-05-08T06:32:21",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 170,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.109,
+    "longitude": 22.22,
+    "trackingDateTime": "2012-05-08T12:55:23",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 171,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.11826,
+    "longitude": 22.15947,
+    "trackingDateTime": "2012-05-08T21:24:51",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 172,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.14921,
+    "longitude": 22.14468,
+    "trackingDateTime": "2012-05-14T13:33:40",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 173,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.15019,
+    "longitude": 22.13064,
+    "trackingDateTime": "2012-05-14T22:14:39",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 174,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.15479,
+    "longitude": 22.11553,
+    "trackingDateTime": "2012-05-15T20:45:56",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 175,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.14725,
+    "longitude": 22.11231,
+    "trackingDateTime": "2012-05-16T07:33:18",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 176,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.07775,
+    "longitude": 22.22111,
+    "trackingDateTime": "2012-05-19T11:09:36",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 177,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.07787,
+    "longitude": 22.22101,
+    "trackingDateTime": "2012-05-19T11:17:51",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 178,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.07758,
+    "longitude": 22.22039,
+    "trackingDateTime": "2012-05-19T14:25:13",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 179,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.07772,
+    "longitude": 22.22073,
+    "trackingDateTime": "2012-05-19T16:03:58",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 180,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.07751,
+    "longitude": 22.22047,
+    "trackingDateTime": "2012-05-19T21:00:30",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 181,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.06853,
+    "longitude": 22.22039,
+    "trackingDateTime": "2012-05-20T02:40:38",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 182,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.07315,
+    "longitude": 22.22272,
+    "trackingDateTime": "2012-05-20T02:41:10",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 183,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.07155,
+    "longitude": 22.25487,
+    "trackingDateTime": "2012-05-20T18:55:01",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 184,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.12885,
+    "longitude": 22.17888,
+    "trackingDateTime": "2012-05-23T15:12:57",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 185,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.07378,
+    "longitude": 22.19508,
+    "trackingDateTime": "2012-05-24T16:40:00",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 186,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.10509,
+    "longitude": 22.20467,
+    "trackingDateTime": "2012-05-25T09:59:30",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 187,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.14285,
+    "longitude": 22.25077,
+    "trackingDateTime": "2012-05-25T13:14:46",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 188,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.14883,
+    "longitude": 22.23517,
+    "trackingDateTime": "2012-05-25T14:50:17",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 189,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.07072,
+    "longitude": 22.20513,
+    "trackingDateTime": "2012-05-31T21:15:56",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 190,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.07098,
+    "longitude": 22.20536,
+    "trackingDateTime": "2012-05-31T21:16:21",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 191,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.07915,
+    "longitude": 22.21066,
+    "trackingDateTime": "2012-05-31T21:50:37",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 192,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.1188,
+    "longitude": 22.36051,
+    "trackingDateTime": "2012-06-01T15:16:12",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 193,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.09069,
+    "longitude": 22.29419,
+    "trackingDateTime": "2012-06-01T21:44:51",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 194,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.10478,
+    "longitude": 22.29893,
+    "trackingDateTime": "2012-06-02T18:06:21",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 195,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.12042,
+    "longitude": 22.17984,
+    "trackingDateTime": "2012-06-15T22:53:46",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 196,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.10712,
+    "longitude": 22.19312,
+    "trackingDateTime": "2012-06-20T06:06:06",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 197,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.155,
+    "longitude": 22.25025,
+    "trackingDateTime": "2012-06-20T11:31:45",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 198,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.12203,
+    "longitude": 22.19766,
+    "trackingDateTime": "2012-06-20T13:03:02",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 199,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.11739,
+    "longitude": 22.18384,
+    "trackingDateTime": "2012-06-20T13:46:26",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 200,
+    "sharkId": 4,
+    "sharkName": "Tiburón Limón",
+    "latitude": -34.14835,
+    "longitude": 22.12944,
+    "trackingDateTime": "2012-06-20T15:47:25",
+    "chlorA": 3.9315093
+  }
+]

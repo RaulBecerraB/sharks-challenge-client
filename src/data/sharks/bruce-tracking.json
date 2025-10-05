@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.132,
+    "longitude": 22.123,
+    "trackingDateTime": "2012-03-09T15:35:31",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 2,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.16,
+    "longitude": 22.18,
+    "trackingDateTime": "2012-03-09T21:30:24",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 3,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.189,
+    "longitude": 22.141,
+    "trackingDateTime": "2012-03-10T06:48:44",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 4,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.209,
+    "longitude": 22.133,
+    "trackingDateTime": "2012-03-10T07:25:39",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 5,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.234,
+    "longitude": 22.112,
+    "trackingDateTime": "2012-03-10T08:01:31",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 6,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.285,
+    "longitude": 22.066,
+    "trackingDateTime": "2012-03-10T09:56:39",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 7,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.344,
+    "longitude": 22.002,
+    "trackingDateTime": "2012-03-10T12:31:56",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 8,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.391,
+    "longitude": 21.952,
+    "trackingDateTime": "2012-03-10T14:35:42",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 9,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.434,
+    "longitude": 21.906,
+    "trackingDateTime": "2012-03-10T16:28:19",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 10,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.472,
+    "longitude": 21.865,
+    "trackingDateTime": "2012-03-10T18:14:37",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 11,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.506,
+    "longitude": 21.828,
+    "trackingDateTime": "2012-03-10T19:52:48",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 12,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.537,
+    "longitude": 21.794,
+    "trackingDateTime": "2012-03-10T21:23:55",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 13,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.566,
+    "longitude": 21.762,
+    "trackingDateTime": "2012-03-10T22:48:12",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 14,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.416,
+    "longitude": 21.701,
+    "trackingDateTime": "2012-03-13T11:05:28",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 15,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.411,
+    "longitude": 21.723,
+    "trackingDateTime": "2012-03-13T11:10:14",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 16,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.493,
+    "longitude": 21.596,
+    "trackingDateTime": "2012-03-13T12:08:52",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 17,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.485,
+    "longitude": 21.62,
+    "trackingDateTime": "2012-03-13T12:14:38",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 18,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.539,
+    "longitude": 21.53,
+    "trackingDateTime": "2012-03-13T13:45:29",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 19,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.587,
+    "longitude": 21.451,
+    "trackingDateTime": "2012-03-13T15:12:17",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 20,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.629,
+    "longitude": 21.379,
+    "trackingDateTime": "2012-03-13T16:34:42",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 21,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.667,
+    "longitude": 21.312,
+    "trackingDateTime": "2012-03-13T17:52:18",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 22,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.702,
+    "longitude": 21.249,
+    "trackingDateTime": "2012-03-13T19:06:35",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 23,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.734,
+    "longitude": 21.191,
+    "trackingDateTime": "2012-03-13T20:17:44",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 24,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.764,
+    "longitude": 21.137,
+    "trackingDateTime": "2012-03-13T21:26:13",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 25,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.792,
+    "longitude": 21.087,
+    "trackingDateTime": "2012-03-13T22:31:58",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 26,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.818,
+    "longitude": 21.041,
+    "trackingDateTime": "2012-03-13T23:35:27",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 27,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.843,
+    "longitude": 20.998,
+    "trackingDateTime": "2012-03-14T00:36:44",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 28,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.866,
+    "longitude": 20.959,
+    "trackingDateTime": "2012-03-14T01:36:12",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 29,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.888,
+    "longitude": 20.923,
+    "trackingDateTime": "2012-03-14T02:33:48",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 30,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.908,
+    "longitude": 20.89,
+    "trackingDateTime": "2012-03-14T03:29:37",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 31,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.927,
+    "longitude": 20.86,
+    "trackingDateTime": "2012-03-14T04:23:42",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 32,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.944,
+    "longitude": 20.833,
+    "trackingDateTime": "2012-03-14T05:16:08",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 33,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.96,
+    "longitude": 20.808,
+    "trackingDateTime": "2012-03-14T06:06:58",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 34,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.975,
+    "longitude": 20.786,
+    "trackingDateTime": "2012-03-14T06:56:17",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 35,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.988,
+    "longitude": 20.766,
+    "trackingDateTime": "2012-03-14T07:44:08",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 36,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.0,
+    "longitude": 20.748,
+    "trackingDateTime": "2012-03-14T08:30:34",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 37,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.011,
+    "longitude": 20.732,
+    "trackingDateTime": "2012-03-14T09:15:39",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 38,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.021,
+    "longitude": 20.718,
+    "trackingDateTime": "2012-03-14T09:59:27",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 39,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.03,
+    "longitude": 20.705,
+    "trackingDateTime": "2012-03-14T10:42:02",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 40,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.038,
+    "longitude": 20.694,
+    "trackingDateTime": "2012-03-14T11:23:26",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 41,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.045,
+    "longitude": 20.684,
+    "trackingDateTime": "2012-03-14T12:03:44",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 42,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.051,
+    "longitude": 20.676,
+    "trackingDateTime": "2012-03-14T12:42:58",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 43,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.056,
+    "longitude": 20.669,
+    "trackingDateTime": "2012-03-14T13:21:12",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 44,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.06,
+    "longitude": 20.663,
+    "trackingDateTime": "2012-03-14T13:58:29",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 45,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.064,
+    "longitude": 20.658,
+    "trackingDateTime": "2012-03-14T14:34:51",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 46,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.067,
+    "longitude": 20.654,
+    "trackingDateTime": "2012-03-14T15:10:21",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 47,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.069,
+    "longitude": 20.651,
+    "trackingDateTime": "2012-03-14T15:45:01",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 48,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.071,
+    "longitude": 20.649,
+    "trackingDateTime": "2012-03-14T16:18:53",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 49,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.072,
+    "longitude": 20.647,
+    "trackingDateTime": "2012-03-14T16:52:00",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 50,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.073,
+    "longitude": 20.646,
+    "trackingDateTime": "2012-03-14T17:24:23",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 51,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.074,
+    "longitude": 20.645,
+    "trackingDateTime": "2012-03-14T17:56:03",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 52,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.074,
+    "longitude": 20.645,
+    "trackingDateTime": "2012-03-14T18:27:02",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 53,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.074,
+    "longitude": 20.645,
+    "trackingDateTime": "2012-03-14T18:57:21",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 54,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.074,
+    "longitude": 20.646,
+    "trackingDateTime": "2012-03-14T19:27:01",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 55,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.074,
+    "longitude": 20.647,
+    "trackingDateTime": "2012-03-14T19:56:02",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 56,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.073,
+    "longitude": 20.648,
+    "trackingDateTime": "2012-03-14T20:24:26",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 57,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.072,
+    "longitude": 20.65,
+    "trackingDateTime": "2012-03-14T20:52:14",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 58,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.071,
+    "longitude": 20.652,
+    "trackingDateTime": "2012-03-14T21:19:27",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 59,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.069,
+    "longitude": 20.655,
+    "trackingDateTime": "2012-03-14T21:46:06",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 60,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.067,
+    "longitude": 20.658,
+    "trackingDateTime": "2012-03-14T22:12:12",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 61,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.064,
+    "longitude": 20.662,
+    "trackingDateTime": "2012-03-14T22:37:46",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 62,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.061,
+    "longitude": 20.667,
+    "trackingDateTime": "2012-03-14T23:02:49",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 63,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.058,
+    "longitude": 20.672,
+    "trackingDateTime": "2012-03-14T23:27:22",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 64,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.054,
+    "longitude": 20.678,
+    "trackingDateTime": "2012-03-14T23:51:26",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 65,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.049,
+    "longitude": 20.685,
+    "trackingDateTime": "2012-03-15T00:15:03",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 66,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.044,
+    "longitude": 20.692,
+    "trackingDateTime": "2012-03-15T00:38:14",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 67,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.039,
+    "longitude": 20.7,
+    "trackingDateTime": "2012-03-15T01:01:00",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 68,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.033,
+    "longitude": 20.709,
+    "trackingDateTime": "2012-03-15T01:23:22",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 69,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.026,
+    "longitude": 20.718,
+    "trackingDateTime": "2012-03-15T01:45:21",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 70,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.019,
+    "longitude": 20.728,
+    "trackingDateTime": "2012-03-15T02:06:59",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 71,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.012,
+    "longitude": 20.739,
+    "trackingDateTime": "2012-03-15T02:28:17",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 72,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -35.004,
+    "longitude": 20.751,
+    "trackingDateTime": "2012-03-15T02:49:16",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 73,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.995,
+    "longitude": 20.763,
+    "trackingDateTime": "2012-03-15T03:09:58",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 74,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.986,
+    "longitude": 20.776,
+    "trackingDateTime": "2012-03-15T03:30:24",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 75,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.976,
+    "longitude": 20.79,
+    "trackingDateTime": "2012-03-15T03:50:35",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 76,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.966,
+    "longitude": 20.805,
+    "trackingDateTime": "2012-03-15T04:10:32",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 77,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.955,
+    "longitude": 20.821,
+    "trackingDateTime": "2012-03-15T04:30:17",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 78,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.943,
+    "longitude": 20.838,
+    "trackingDateTime": "2012-03-15T04:49:51",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 79,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.931,
+    "longitude": 20.855,
+    "trackingDateTime": "2012-03-15T05:09:15",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 80,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.918,
+    "longitude": 20.874,
+    "trackingDateTime": "2012-03-15T05:28:30",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 81,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.905,
+    "longitude": 20.893,
+    "trackingDateTime": "2012-03-15T05:47:37",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 82,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.891,
+    "longitude": 20.913,
+    "trackingDateTime": "2012-03-15T06:06:38",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 83,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.877,
+    "longitude": 20.934,
+    "trackingDateTime": "2012-03-15T06:25:33",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 84,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.862,
+    "longitude": 20.956,
+    "trackingDateTime": "2012-03-15T06:44:23",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 85,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.847,
+    "longitude": 20.979,
+    "trackingDateTime": "2012-03-15T07:03:10",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 86,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.831,
+    "longitude": 21.003,
+    "trackingDateTime": "2012-03-15T07:21:55",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 87,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.815,
+    "longitude": 21.028,
+    "trackingDateTime": "2012-03-15T07:40:39",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 88,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.798,
+    "longitude": 21.054,
+    "trackingDateTime": "2012-03-15T07:59:22",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 89,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.781,
+    "longitude": 21.081,
+    "trackingDateTime": "2012-03-15T08:18:06",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 90,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.763,
+    "longitude": 21.109,
+    "trackingDateTime": "2012-03-15T08:36:52",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 91,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.745,
+    "longitude": 21.138,
+    "trackingDateTime": "2012-03-15T08:55:41",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 92,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.726,
+    "longitude": 21.168,
+    "trackingDateTime": "2012-03-15T09:14:34",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 93,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.707,
+    "longitude": 21.199,
+    "trackingDateTime": "2012-03-15T09:33:32",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 94,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.687,
+    "longitude": 21.232,
+    "trackingDateTime": "2012-03-15T09:52:36",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 95,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.747,
+    "longitude": 20.099,
+    "trackingDateTime": "2012-03-16T10:11:47",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 96,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.749,
+    "longitude": 20.135,
+    "trackingDateTime": "2012-03-16T10:31:07",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 97,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.75,
+    "longitude": 20.118,
+    "trackingDateTime": "2012-03-16T10:50:34",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 98,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.749,
+    "longitude": 20.206,
+    "trackingDateTime": "2012-03-16T11:10:10",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 99,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.748,
+    "longitude": 20.173,
+    "trackingDateTime": "2012-03-16T11:29:54",
+    "chlorA": 3.9315093
+  },
+  {
+    "id": 100,
+    "sharkId": 3,
+    "sharkName": "Bruce",
+    "latitude": -34.747,
+    "longitude": 20.189,
+    "trackingDateTime": "2012-03-16T11:49:47",
+    "chlorA": 3.9315093
+  }
+]

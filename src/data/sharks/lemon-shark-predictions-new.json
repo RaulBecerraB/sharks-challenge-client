@@ -1,0 +1,173 @@
+{
+  "sharkId": 4,
+  "sharkName": "Tiburón Limón",
+  "predictedPositions": [
+    {
+      "latitude": -34.1521,
+      "longitude": 22.1185,
+      "chlorA": 3.9845,
+      "iteration": 1,
+      "predictedFor": "2025-10-05T16:47:25Z"
+    },
+    {
+      "latitude": -34.1598,
+      "longitude": 22.1067,
+      "chlorA": 3.9912,
+      "iteration": 2,
+      "predictedFor": "2025-10-05T18:47:25Z"
+    },
+    {
+      "latitude": -34.1475,
+      "longitude": 22.0945,
+      "chlorA": 4.0123,
+      "iteration": 3,
+      "predictedFor": "2025-10-05T20:47:25Z"
+    },
+    {
+      "latitude": -34.1389,
+      "longitude": 22.0823,
+      "chlorA": 4.0345,
+      "iteration": 4,
+      "predictedFor": "2025-10-05T22:47:25Z"
+    },
+    {
+      "latitude": -34.1256,
+      "longitude": 22.0712,
+      "chlorA": 4.0456,
+      "iteration": 5,
+      "predictedFor": "2025-10-06T00:47:25Z"
+    },
+    {
+      "latitude": -34.1134,
+      "longitude": 22.0598,
+      "chlorA": 4.0578,
+      "iteration": 6,
+      "predictedFor": "2025-10-06T02:47:25Z"
+    },
+    {
+      "latitude": -34.1023,
+      "longitude": 22.0487,
+      "chlorA": 4.0689,
+      "iteration": 7,
+      "predictedFor": "2025-10-06T04:47:25Z"
+    },
+    {
+      "latitude": -34.0912,
+      "longitude": 22.0376,
+      "chlorA": 4.0798,
+      "iteration": 8,
+      "predictedFor": "2025-10-06T06:47:25Z"
+    },
+    {
+      "latitude": -34.0845,
+      "longitude": 22.0289,
+      "chlorA": 4.0912,
+      "iteration": 9,
+      "predictedFor": "2025-10-06T08:47:25Z"
+    },
+    {
+      "latitude": -34.0789,
+      "longitude": 22.0198,
+      "chlorA": 4.1023,
+      "iteration": 10,
+      "predictedFor": "2025-10-06T10:47:25Z"
+    },
+    {
+      "latitude": -34.0698,
+      "longitude": 22.0123,
+      "chlorA": 4.1145,
+      "iteration": 11,
+      "predictedFor": "2025-10-06T12:47:25Z"
+    },
+    {
+      "latitude": -34.0612,
+      "longitude": 22.0067,
+      "chlorA": 4.1267,
+      "iteration": 12,
+      "predictedFor": "2025-10-06T14:47:25Z"
+    },
+    {
+      "latitude": -34.0534,
+      "longitude": 22.0001,
+      "chlorA": 4.1389,
+      "iteration": 13,
+      "predictedFor": "2025-10-06T16:47:25Z"
+    },
+    {
+      "latitude": -34.0467,
+      "longitude": 21.9943,
+      "chlorA": 4.1512,
+      "iteration": 14,
+      "predictedFor": "2025-10-06T18:47:25Z"
+    },
+    {
+      "latitude": -34.0389,
+      "longitude": 21.9887,
+      "chlorA": 4.1634,
+      "iteration": 15,
+      "predictedFor": "2025-10-06T20:47:25Z"
+    },
+    {
+      "latitude": -34.0312,
+      "longitude": 21.9834,
+      "chlorA": 4.1756,
+      "iteration": 16,
+      "predictedFor": "2025-10-06T22:47:25Z"
+    },
+    {
+      "latitude": -34.0245,
+      "longitude": 21.9782,
+      "chlorA": 4.1878,
+      "iteration": 17,
+      "predictedFor": "2025-10-07T00:47:25Z"
+    },
+    {
+      "latitude": -34.0189,
+      "longitude": 21.9731,
+      "chlorA": 4.2001,
+      "iteration": 18,
+      "predictedFor": "2025-10-07T02:47:25Z"
+    },
+    {
+      "latitude": -34.0134,
+      "longitude": 21.9681,
+      "chlorA": 4.2123,
+      "iteration": 19,
+      "predictedFor": "2025-10-07T04:47:25Z"
+    },
+    {
+      "latitude": -34.0078,
+      "longitude": 21.9632,
+      "chlorA": 4.2245,
+      "iteration": 20,
+      "predictedFor": "2025-10-07T06:47:25Z"
+    }
+  ],
+  "usedPositions": [
+    {
+      "latitude": -34.10712,
+      "longitude": 22.19312,
+      "chlor_A": 3.9315093
+    },
+    {
+      "latitude": -34.155,
+      "longitude": 22.25025,
+      "chlor_A": 3.9315093
+    },
+    {
+      "latitude": -34.12203,
+      "longitude": 22.19766,
+      "chlor_A": 3.9315093
+    },
+    {
+      "latitude": -34.11739,
+      "longitude": 22.18384,
+      "chlor_A": 3.9315093
+    },
+    {
+      "latitude": -34.14835,
+      "longitude": 22.12944,
+      "chlor_A": 3.9315093
+    }
+  ]
+}
