@@ -42,7 +42,17 @@ const sharkCurrentIcon = new L.Icon({
     iconAnchor: ICON_CONFIG.SHARK_ANCHOR,
     popupAnchor: ICON_CONFIG.SHARK_POPUP_ANCHOR,
     className: 'shark-current-icon',
-}); const SharkTrackingMap = ({ trackingData = [] }) => {
+});
+
+const predictionIcon = new L.Icon({
+    iconUrl: MAP_ICONS.SHARK_POINT,
+    iconSize: [15, 15],
+    iconAnchor: [7, 7],
+    popupAnchor: [0, -7],
+    className: 'prediction-point',
+});
+
+const SharkTrackingMap = ({ trackingData = [], predictionData = null }) => {
     const [map, setMap] = useState(null);
 
     // Ordenar datos por fecha para crear el camino correcto
@@ -50,8 +60,32 @@ const sharkCurrentIcon = new L.Icon({
         new Date(a.trackingDateTime) - new Date(b.trackingDateTime)
     );
 
-    // Crear array de coordenadas para la línea del camino
+    // Crear array de coordenadas para la línea del camino histórico
     const pathCoordinates = sortedData.map(point => [point.latitude, point.longitude]);
+
+    // PASO 3: Coordenadas para el mapa
+    console.log('� PASO 3 - Coordenadas finales para renderizado:', {
+        pathCoordinatesCount: pathCoordinates.length,
+        firstFiveCoords: pathCoordinates.slice(0, 5).map((coord, i) => ({
+            index: i,
+            lat: coord[0],
+            lng: coord[1],
+            originalId: sortedData[i]?.id,
+            originalDate: sortedData[i]?.trackingDateTime
+        })),
+        lastFiveCoords: pathCoordinates.slice(-5).map((coord, i) => ({
+            index: pathCoordinates.length - 5 + i,
+            lat: coord[0],
+            lng: coord[1],
+            originalId: sortedData[sortedData.length - 5 + i]?.id,
+            originalDate: sortedData[sortedData.length - 5 + i]?.trackingDateTime
+        }))
+    });
+
+    // Crear array de coordenadas para las predicciones si existen
+    const predictionCoordinates = predictionData?.predictedPositions?.map(point =>
+        [point.latitude, point.longitude]
+    ) || [];
 
     // Calcular el centro del mapa basado en los datos
     const calculateCenter = () => {
@@ -77,9 +111,10 @@ const sharkCurrentIcon = new L.Icon({
 
     // Obtener icono según la posición en el tracking
     const getIcon = (index) => {
+        const point = sortedData[index];
+
         if (index === 0) return startIcon; // Primer punto cronológico = inicio
         if (index === sortedData.length - 1) {
-            console.log('Creating shark icon for final point');
             return sharkCurrentIcon; // Último punto = ubicación actual del tiburón
         }
         return sharkIcon;
@@ -131,54 +166,118 @@ const sharkCurrentIcon = new L.Icon({
                 )}
 
                 {/* Marcadores para cada punto */}
-                {sortedData.map((point, index) => (
+                {sortedData.map((point, index) => {
+                    return (
+                        <Marker
+                            key={point.id}
+                            position={[point.latitude, point.longitude]}
+                            icon={getIcon(index)}
+                            zIndexOffset={index === sortedData.length - 1 ? 10000 : 0}
+                        >
+                            <Popup className="shark-popup">
+                                <div className="p-3 min-w-[250px]">
+                                    <h3 className="font-bold text-lg text-blue-600 mb-2">
+                                        {getPointTitle(index)}
+                                    </h3>
+
+                                    <div className="space-y-2 text-sm">
+                                        <div className="flex justify-between">
+                                            <span className="font-medium">Tiburón:</span>
+                                            <span className="text-blue-600 font-bold">{point.sharkName}</span>
+                                        </div>
+
+                                        <div className="flex justify-between">
+                                            <span className="font-medium">ID:</span>
+                                            <span>{point.sharkId}</span>
+                                        </div>
+
+                                        <div className="flex justify-between">
+                                            <span className="font-medium">Punto ID:</span>
+                                            <span>{point.id}</span>
+                                        </div>
+
+                                        <div className="flex justify-between">
+                                            <span className="font-medium">Latitud:</span>
+                                            <span>{point.latitude.toFixed(5)}</span>
+                                        </div>
+
+                                        <div className="flex justify-between">
+                                            <span className="font-medium">Longitud:</span>
+                                            <span>{point.longitude.toFixed(5)}</span>
+                                        </div>
+
+                                        <div className="flex justify-between">
+                                            <span className="font-medium">Fecha:</span>
+                                            <span>{formatDate(point.trackingDateTime)}</span>
+                                        </div>
+                                    </div>
+
+                                    <div className="mt-3 pt-2 border-t border-gray-200">
+                                        <div className="text-xs text-gray-500">
+                                            Posición {index + 1} de {sortedData.length} en el recorrido
+                                        </div>
+                                    </div>
+                                </div>
+                            </Popup>
+                        </Marker>
+                    );
+                })}
+
+                {/* Línea de predicciones */}
+                {predictionCoordinates.length > 0 && pathCoordinates.length > 0 && (
+                    <Polyline
+                        positions={[...pathCoordinates.slice(-1), ...predictionCoordinates]}
+                        color="#ff6b35"
+                        weight={3}
+                        opacity={0.8}
+                        dashArray="10, 5"
+                    />
+                )}
+
+                {/* Marcadores para predicciones */}
+                {predictionData?.predictedPositions?.map((prediction, index) => (
                     <Marker
-                        key={point.id}
-                        position={[point.latitude, point.longitude]}
-                        icon={getIcon(index)}
-                        zIndexOffset={index === sortedData.length - 1 ? 10000 : 0}
+                        key={`prediction-${index}`}
+                        position={[prediction.latitude, prediction.longitude]}
+                        icon={predictionIcon}
+                        zIndexOffset={5000}
                     >
                         <Popup className="shark-popup">
                             <div className="p-3 min-w-[250px]">
-                                <h3 className="font-bold text-lg text-blue-600 mb-2">
-                                    {getPointTitle(index)}
+                                <h3 className="font-bold text-lg text-orange-600 mb-2">
+                                    Predicción #{prediction.iteration}
                                 </h3>
 
                                 <div className="space-y-2 text-sm">
                                     <div className="flex justify-between">
                                         <span className="font-medium">Tiburón:</span>
-                                        <span className="text-blue-600 font-bold">{point.sharkName}</span>
-                                    </div>
-
-                                    <div className="flex justify-between">
-                                        <span className="font-medium">ID:</span>
-                                        <span>{point.sharkId}</span>
-                                    </div>
-
-                                    <div className="flex justify-between">
-                                        <span className="font-medium">Punto ID:</span>
-                                        <span>{point.id}</span>
+                                        <span className="text-orange-600 font-bold">{predictionData.sharkName}</span>
                                     </div>
 
                                     <div className="flex justify-between">
                                         <span className="font-medium">Latitud:</span>
-                                        <span>{point.latitude.toFixed(5)}</span>
+                                        <span>{prediction.latitude.toFixed(5)}</span>
                                     </div>
 
                                     <div className="flex justify-between">
                                         <span className="font-medium">Longitud:</span>
-                                        <span>{point.longitude.toFixed(5)}</span>
+                                        <span>{prediction.longitude.toFixed(5)}</span>
                                     </div>
 
                                     <div className="flex justify-between">
-                                        <span className="font-medium">Fecha:</span>
-                                        <span>{formatDate(point.trackingDateTime)}</span>
+                                        <span className="font-medium">Cloro A:</span>
+                                        <span>{prediction.chlorA.toFixed(4)}</span>
+                                    </div>
+
+                                    <div className="flex justify-between">
+                                        <span className="font-medium">Predicho para:</span>
+                                        <span>{formatDate(prediction.predictedFor)}</span>
                                     </div>
                                 </div>
 
-                                <div className="mt-3 pt-2 border-t border-gray-200">
-                                    <div className="text-xs text-gray-500">
-                                        Posición {index + 1} de {sortedData.length} en el recorrido
+                                <div className="mt-3 pt-2 border-t border-orange-200">
+                                    <div className="text-xs text-orange-500">
+                                        Predicción basada en IA - Iteración {prediction.iteration} de {predictionData.predictedPositions.length}
                                     </div>
                                 </div>
                             </div>
