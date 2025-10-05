@@ -1,0 +1,39 @@
+/* Estilos para el componente SharkTrackingMap */
+
+/* Variables CSS para los colores del tema */
+:root {
+  --shark-primary-color: #1976d2;
+  --shark-success-color: #4caf50;
+  --shark-error-color: #f44336;
+  --shark-path-color: #3b82f6;
+}
+
+.shark-popup .leaflet-popup-content-wrapper {
+  border-radius: 8px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.shark-popup .leaflet-popup-content {
+  margin: 0;
+  padding: 0;
+}
+
+.shark-popup .leaflet-popup-tip {
+  background: white;
+}
+
+/* Animación para los marcadores */
+.leaflet-marker-icon {
+  transition: transform 0.2s ease;
+}
+
+.leaflet-marker-icon:hover {
+  transform: scale(1.1);
+}
+
+/* Estilos para el contenedor del mapa */
+.map-container {
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}

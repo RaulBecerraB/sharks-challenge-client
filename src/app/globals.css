@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+/* Importar estilos de Leaflet */
+@import "leaflet/dist/leaflet.css";
+
+/* Importar estilos personalizados del mapa */
+@import "../components/SharkTrackingMap.css";
